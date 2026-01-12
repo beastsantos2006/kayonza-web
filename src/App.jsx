@@ -3,7 +3,7 @@ import { CartProvider } from "./context/cartContext.jsx";
 
 import NavBar from "./components/navBar.jsx";
 import Home from "./pages/Home.jsx";
-import Products from "./pages/Products.jsx";
+import Products from "./pages/products.jsx";
 import ProductDetail from "./pages/productDetail.jsx";
 import ProductInfo from "./pages/productInfo.jsx";
 import ProductReviews from "./pages/productReviews.jsx";
