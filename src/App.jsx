@@ -1,13 +1,13 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 import { CartProvider } from "./context/cartContext.jsx";
 
-import NavBar from "./components/NavBar.jsx";
+import NavBar from "./components/navBar.jsx";
 import Home from "./pages/Home.jsx";
 import Products from "./pages/Products.jsx";
-import ProductDetail from "./pages/ProductDetail.jsx";
-import ProductInfo from "./pages/ProductInfo.jsx";
-import ProductReviews from "./pages/ProductReviews.jsx";
-import Cart from "./pages/Cart.jsx";
+import ProductDetail from "./pages/productDetail.jsx";
+import ProductInfo from "./pages/productInfo.jsx";
+import ProductReviews from "./pages/productReviews.jsx";
+import Cart from "./pages/cart.jsx";
 import Profile from "./pages/Profile.jsx";
 import NotFound from "./pages/NotFound.jsx";
 
